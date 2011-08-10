@@ -1,0 +1,68 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:backupScript_1.fsx" caret="11318" fromTop="19" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:GameOfLife.fsx" caret="2649" fromTop="37" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Wattpad.fsx" caret="5625" fromTop="41" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:App.config" caret="853" fromTop="21" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Program.fs" caret="0" fromTop="0" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:animea.fsx" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Program.fs" caret="0" fromTop="20" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Program.fs" caret="0" fromTop="13" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Program.fs" caret="0" fromTop="9" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Program.fs" caret="0" fromTop="21" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Program.fs" caret="0" fromTop="22" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Program.fs" caret="0" fromTop="14" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Program.fs" caret="0" fromTop="9" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Program.fs" caret="0" fromTop="20" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Program.fs" caret="0" fromTop="10" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Program.fs" caret="0" fromTop="33" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:App.config" caret="295" fromTop="24" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Program.fs" caret="0" fromTop="10" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Program.fs" caret="0" fromTop="7" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Program.fs" caret="0" fromTop="17" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:App.config" caret="953" fromTop="8" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:App.config" caret="295" fromTop="8" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:App.config" caret="432" fromTop="5" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:App.config" caret="57" fromTop="2" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:App.config" caret="853" fromTop="21" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Program.fs" caret="0" fromTop="21" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Program.fs" caret="0" fromTop="13" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Program.fs" caret="0" fromTop="13" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Program.fs" caret="0" fromTop="10" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Program.fs" caret="0" fromTop="16" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Program.fs" caret="0" fromTop="18" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Program.fs" caret="0" fromTop="23" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Program.fs" caret="0" fromTop="16" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Program.fs" caret="0" fromTop="16" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Program.fs" caret="0" fromTop="0" />
+      <File id="BC3C2B62-D52E-4078-8BE4-E88204F4B656/f:Wattpad.fsx" caret="5625" fromTop="41" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Program.fs" priority="0" />
+      <Item value="Hello.aspx.fs" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
